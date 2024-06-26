@@ -1,4 +1,3 @@
-import "./Main.css";
 import { MyButton } from "./uiButton/MyButton";
 import styled from "styled-components";
 
